@@ -1,0 +1,16 @@
+{
+  "name": "Sahjeevan Operations",
+  "short_name": "Sahjeevan Ops",
+  "description": "Field logistics, assets, leave and movement tracking for Sahjeevan.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f1ea",
+  "theme_color": "#1d2b50",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
